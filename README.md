@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on building my skills and extending my capabilities in creating cool stuff!
+
+- 🌱 I’m currently learning whatever I get my hands on... Good, efficient and collaborative development practices peak my interest these days!
+
+- 👯 I’m always willing to entertain ideas of collaboration. Whether it is idea sharing, forming and defining projects or contributing to implementations!
+
+- 😄 Pronouns: They/them or He/him generally. With friends or friendly people any pronoun works.
 
 <!--
 **mittons/mittons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
